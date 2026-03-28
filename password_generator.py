@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Diceware/BIP39 Password Generator - Secure Local Edition
-Default loads: wordlist.txt (rename any wordlist file to this) or manually select the file txt-file
+Default loads: wordlist.txt (rename any wordlist file to this) or manually select the txt-file
 Supports: EFF Diceware (7776 words) and BIP39 (2048 words) automatically
 """
 
