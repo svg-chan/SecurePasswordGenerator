@@ -9,7 +9,7 @@
 
 *Cryptographically secure passphrases. Offline. Auditable.*
 
-[📥 Download Latest](https://github.com/YOURNAME/password-generator/releases) • [🐍 View Source](password_generator.py)
+[📥 Download Latest](password_generator.py)
 
 ---
 
