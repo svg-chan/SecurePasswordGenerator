@@ -52,9 +52,12 @@ Generate passwords that survive Grover's algorithm.
 
 ---
 
-## 🚀 Installation
+## 📜 License
 
-**Zero dependencies.** Just Python 3.6+ (comes with all operating systems).
+MIT License — Free for personal and commercial use. No warranty provided.
+
+**⚠️ Cryptographic Notice:** This tool generates randomness using your operating system's CSPRNG. It is suitable for passwords and crypto seed phrases. However, if your OS or hardware RNG is compromised, this tool cannot help. For life-critical keys, use multiple independent generation methods and XOR them together.
+## 🚀 Installation
 
 ### Windows 10/11
 ```powershell
