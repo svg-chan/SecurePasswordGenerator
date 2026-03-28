@@ -10,7 +10,9 @@
 *Cryptographically secure passphrases. Offline. Auditable.*
 
 [📥 Download Latest](password_generator.py)
+
 [📝 Download EFF large wordlist](wordlist.txt)🗒️
+
 [📝 Download BIP39 wordlist](bib39-english.txt)🗒️
 
 
