@@ -15,8 +15,6 @@
 
 ## ✨ Why This Generator?
 
-Most password tools are either online (leaking your secrets) or binary blobs (unauditable). This is different.
-
 | 🚫 The Problem | ✅ Our Solution |
 |:---|:---|
 | **Cloud Leaks** — Online generators transmit passwords to servers | **100% Offline** — Never connects to internet. Air-gappable. |
