@@ -55,6 +55,11 @@ Generate passwords that survive Grover's algorithm.
 
 ---
 
+## 🖼️ Screenshot
+
+![Screenshot](screenshot.png)
+
+
 ## 📜 License
 
 MIT License — Free for personal and commercial use. No warranty provided.
@@ -69,3 +74,5 @@ python -c "import tkinter; print('OK')"
 
 # 3. Run
 python password_generator.py
+
+
