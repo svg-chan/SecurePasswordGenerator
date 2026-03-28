@@ -62,7 +62,6 @@ MIT License — Free for personal and commercial use. No warranty provided.
 **⚠️ Cryptographic Notice:** This tool generates randomness using your operating system's CSPRNG. It is suitable for passwords and crypto seed phrases. However, if your OS or hardware RNG is compromised, this tool cannot help. For life-critical keys, use multiple independent generation methods and XOR them together.
 ## 🚀 Installation
 
-### Windows 10/11
 ```powershell
 # 1. Install Python from Microsoft Store or python.org
 # 2. Verify Tkinter is included:
